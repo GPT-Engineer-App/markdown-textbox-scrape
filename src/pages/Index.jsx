@@ -20,7 +20,7 @@ const Index = () => {
             onlyMainContent: true,
             includeHtml: true
           },
-          timeout: 123
+          timeout: 30000
         })
       });
 
